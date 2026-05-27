@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsalculate",
+        "uuid": 11370729,
+        "checksum": "rwotek"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
